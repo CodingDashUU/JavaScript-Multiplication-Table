@@ -1,0 +1,39 @@
+th,td{
+    border: 2px, solid;
+    min-width: 900px ;
+    min-height: 1000px;
+    text-align: center;
+    font-size: 3em;
+    
+}
+th{
+    background-color: hsl(110, 94%, 80%);
+}
+td{
+    background-color: hsl(180, 100%, 80%);
+}
+
+#label1{
+    font-size: 2em;
+}
+div{
+    display: block;
+    border: 5px solid;
+   text-align: center;
+   min-height: 1000px;
+
+}
+#number,#amount{
+    width: 400px;
+    height: 50px;
+    font-size: 2em;
+    text-align: center;
+}
+#generate{
+    font-size: 2em;
+    width: 250px;
+    height: 50px;
+}
+h1{
+    background-color: yellow;
+}
