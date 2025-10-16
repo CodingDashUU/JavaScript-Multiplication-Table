@@ -6,9 +6,16 @@ A simple multiplication table generator used to help people who need instant acc
 ## HOW TO USE
 
 1. Enter a number in the spaces provided
-2. Press the "Generate" button
-3. Receive its multiplication table from multiplier 1 through 12.
+2. Enter the amount of multipliers in the space provided
+3. Press the "Generate" button
+4. Receive its multiplication table from multiplier
+
+PLAY NOW:  https://codingdashuu.github.io/JavaScript-Multiplication-Table/
+
+
+<img width="1910" height="796" alt="image" src="https://github.com/user-attachments/assets/4f39d48e-0dd4-4747-ac1d-12c77916022f" />
 
 
 
-<img width="1905" height="948" alt="tableM" src="https://github.com/user-attachments/assets/ae0064fe-4c74-498b-b530-037dcb1e6589" />
+
+
